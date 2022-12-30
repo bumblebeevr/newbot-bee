@@ -1,0 +1,53 @@
+{
+  "botname": "Sosmed Manager Bot",
+  "botname2": "Sosmed Manager Bot",
+  "ownerNumber": [
+    "6281216654518",
+    "6282131737457",
+    "436508448617777"
+  ],
+  "prefix": [
+    "!",
+    "$",
+    "/",
+    "",
+    "."
+  ],
+  "ownername": "Sosmed Manager Bot",
+  "unicode": {
+    "head": "⬣",
+    "list": "⬡",
+    "body": "➛",
+    "upper": "┏",
+    "down": "┗",
+    "line": "━",
+    "wings": [
+      "𓆩 ",
+      " 𓆪"
+    ],
+    "needed": [
+      "<",
+      ">"
+    ],
+    "optional": [
+      "(",
+      ")"
+    ]
+  },
+  "response": {
+    "owner": "Khusus Owner",
+    "admin": "Khusus Admin",
+    "query": "Yang di cari apa?",
+    "group": "Khusus didalam Grup | Only Group",
+    "wait": "*WAIT! | Mohon Tunggu Sebentar...*",
+    "private": "Hanya bisa digunakan dipribadi Bot | Can only be used in private bots",
+    "notUrl": "Link Invalid",
+    "media": "Pesan Harus Berbentuk Media | Message Must be in the form of Media",
+    "mentioned": "Tag Member ",
+    "quoted": "Tag Pesannya Bang",
+    "_media": "Kirim/Reply Pesan Media Atau Tag Pesan Yang Terdapat Media | Send Media Messages Or Tag Messages That Have Media",
+    "Error": "Terjadi Kesalahan Saat Mengambil Data Tersebut | An Error Occurred While Retrieving The Data",
+    "fromMe": "Pesan Yang Di Balas Harus Dari Bot",
+    "clientAdmin": "Bot Nya Jadiin Admin Dong"
+  }
+}

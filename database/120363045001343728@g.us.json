@@ -1,0 +1,28 @@
+{
+  "120363045001343728@g.us": {
+    "produk": {},
+    "payment": {},
+    "autorespon": {},
+    "id": "120363045001343728@g.us",
+    "subject": "Sosmed Manager",
+    "subjectOwner": "6281216654518@s.whatsapp.net",
+    "subjectTime": 1660051883,
+    "size": 2,
+    "creation": 1660051883,
+    "owner": "6281216654518@s.whatsapp.net",
+    "desc": "https://sosmedmanager.com\n\nhttps://sosmedmanager.my.id",
+    "descId": "26E06988CF4B052E082DF974C86EC708",
+    "restrict": false,
+    "announce": false,
+    "participants": [
+      {
+        "id": "6281216654518@s.whatsapp.net",
+        "admin": "superadmin"
+      },
+      {
+        "id": "6282131737457@s.whatsapp.net",
+        "admin": "admin"
+      }
+    ]
+  }
+}

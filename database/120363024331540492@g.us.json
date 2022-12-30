@@ -1,0 +1,68 @@
+{
+  "120363024331540492@g.us": {
+    "id": "120363024331540492@g.us",
+    "subject": "Sirkel Sc Galang",
+    "subjectTime": 1666249812,
+    "size": 11,
+    "creation": 1648967849,
+    "owner": "6289692514366@s.whatsapp.net",
+    "desc": "GALANG CARA NGAMBIL FOTO/VIDEO DARI VIEWONCE GIMANA",
+    "descId": "97F519855E45402D3DBD426E6ADC4684",
+    "restrict": false,
+    "announce": false,
+    "participants": [
+      {
+        "id": "436508448617777@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "6281216654518@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "6281313943827@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "6281993377482@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "6282131737457@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "6283832652574@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "6283854324353@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "6283862323152@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "6289602286569@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "6289692514366@s.whatsapp.net",
+        "admin": "superadmin"
+      },
+      {
+        "id": "79588384620@s.whatsapp.net",
+        "admin": "admin"
+      }
+    ],
+    "produk": {},
+    "payment": {
+      "values": []
+    },
+    "autorespon": {
+      "proses": "ayment kan lamg",
+      "p": "ayment kan lamg"
+    }
+  }
+}
